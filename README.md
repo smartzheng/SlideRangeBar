@@ -1,15 +1,16 @@
 # SlideRangeBar
 一个可拖动的范围选择器
 
-使用：
 root build.gradle：
+
 	allprojects {
 		repositories {
 			...
 			maven { url 'https://www.jitpack.io' }
 		}
 	}
-module：
+module：  
+
 	dependencies {
 	        implementation 'com.github.smartzheng:SlideRangeBar:1.0.0'
 	}
