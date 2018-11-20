@@ -15,4 +15,4 @@ module：
 	        implementation 'com.github.smartzheng:SlideRangeBar:1.0.0'
 	}
 
-![image](https://github.com/smartzheng/SlideRangeBar/blob/master/sliderangebar/pics/slidebar.jpeg)
+![image](https://github.com/smartzheng/SlideRangeBar/blob/master/sample/pics/slidebar.jpeg)
