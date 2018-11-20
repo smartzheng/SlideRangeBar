@@ -14,3 +14,6 @@ module：
 	dependencies {
 	        implementation 'com.github.smartzheng:SlideRangeBar:1.0.0'
 	}
+
+![image](https://github.com/smartzheng/SlideRangeBar/blob/master/sliderangebar/pics/slidebar.jpeg)
+http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
