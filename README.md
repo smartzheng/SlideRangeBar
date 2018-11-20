@@ -16,4 +16,3 @@ module：
 	}
 
 ![image](https://github.com/smartzheng/SlideRangeBar/blob/master/sliderangebar/pics/slidebar.jpeg)
-http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
